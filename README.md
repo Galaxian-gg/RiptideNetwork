@@ -4,4 +4,4 @@ Welcome to the official source code page for the **Riptide Network** website!
 The **Riptide Network** is basically a discord server that has links to proxies.
 This discord server is called the Overdrive Community. It is primarily a gaming server but it also has proxy links and memes.
 Visit the website here! 
-https://metadragonstudios.github.io/RiptideNetwork/
+https://galaxian-gg.github.io/RiptideNetwork/
